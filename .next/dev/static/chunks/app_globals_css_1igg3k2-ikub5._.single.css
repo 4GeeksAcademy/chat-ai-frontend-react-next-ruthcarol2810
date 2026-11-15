@@ -363,6 +363,11 @@
     }
   }
 
+  html, body {
+    height: 100%;
+    overflow: hidden;
+  }
+
   body {
     background-color: var(--background);
     color: var(--foreground);
@@ -444,10 +449,6 @@
     margin-bottom: calc(var(--spacing) * 2);
   }
 
-  .block {
-    display: block;
-  }
-
   .flex {
     display: flex;
   }
@@ -506,6 +507,10 @@
   .size-12 {
     width: calc(var(--spacing) * 12);
     height: calc(var(--spacing) * 12);
+  }
+
+  .h-0 {
+    height: 0;
   }
 
   .h-2 {

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///workspaces/chat-ai-frontend-react-next-ruthcarol2810/app/page.tsx"],"sourcesContent":["import { ChatApp } from '@/components/chat/chat-app'\n\nexport default function Page() {\n  return <ChatApp />\n}\n"],"names":["Page"],"mappings":";;;;;AAAA;;;AAEe,SAASA;IACtB,qBAAO,kbAAC,6IAAO;;;;;AACjB"}},
+    {"offset": {"line": 32, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":""}}]
+}

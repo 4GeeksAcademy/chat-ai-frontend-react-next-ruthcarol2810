@@ -1557,20 +1557,8 @@ __turbopack_context__.s([
 ]);
 const MODELS = [
     {
-        id: 'openai/gpt-5.4-mini',
-        label: 'GPT-5.4 mini'
-    },
-    {
-        id: 'anthropic/claude-haiku-4.5',
-        label: 'Claude Haiku 4.5'
-    },
-    {
-        id: 'google/gemini-3-flash',
-        label: 'Gemini 3 Flash'
-    },
-    {
-        id: 'openai/gpt-5.5',
-        label: 'GPT-5.5'
+        id: 'qwen/qwen3.6-27b',
+        label: 'Qwen 3.6 27B (Groq)'
     }
 ];
 const DEFAULT_MODEL = MODELS[0].id;

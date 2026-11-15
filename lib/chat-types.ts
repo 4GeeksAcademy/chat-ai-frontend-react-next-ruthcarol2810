@@ -1,10 +1,5 @@
-import type { UIMessage } from 'ai'
-
 export const MODELS = [
-  { id: 'openai/gpt-5.4-mini', label: 'GPT-5.4 mini' },
-  { id: 'anthropic/claude-haiku-4.5', label: 'Claude Haiku 4.5' },
-  { id: 'google/gemini-3-flash', label: 'Gemini 3 Flash' },
-  { id: 'openai/gpt-5.5', label: 'GPT-5.5' },
+  { id: 'qwen/qwen3.8-27b', label: 'Qwen 3.8 27B (Groq)' },
 ] as const
 
 export type ModelId = (typeof MODELS)[number]['id']
@@ -26,7 +21,12 @@ export type ChatMetadata = {
   tokensPerSecond?: number
 }
 
-export type ChatMessage = UIMessage<ChatMetadata>
+export type ChatMessage = {
+  id: string
+  role: 'user' | 'assistant'
+  content: string
+  metadata?: ChatMetadata
+}
 
 export type TurnStats = {
   id: string

@@ -8,8 +8,6 @@ __turbopack_context__.s([
 ]);
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/.pnpm/next@16.4.3_@babel+core@7.29.7_@types+node@24.10.4_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/.pnpm/next@16.4.3_@babel+core@7.29.7_@types+node@24.10.4_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f40$ai$2d$sdk$2b$react$40$4$2e$0$2e$161_react$40$19$2e$2$2e$4_zod$40$3$2e$25$2e$76$2f$node_modules$2f40$ai$2d$sdk$2f$react$2f$dist$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/.pnpm/@ai-sdk+react@4.0.161_react@19.2.4_zod@3.25.76/node_modules/@ai-sdk/react/dist/index.js [app-client] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$ai$40$7$2e$0$2e$157_zod$40$3$2e$25$2e$76$2f$node_modules$2f$ai$2f$dist$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$locals$3e$__ = __turbopack_context__.i("[project]/node_modules/.pnpm/ai@7.0.157_zod@3.25.76/node_modules/ai/dist/index.js [app-client] (ecmascript) <locals>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$lucide$2d$react$40$1$2e$17$2e$0_react$40$19$2e$2$2e$4$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$chart$2d$column$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__BarChart3$3e$__ = __turbopack_context__.i("[project]/node_modules/.pnpm/lucide-react@1.17.0_react@19.2.4/node_modules/lucide-react/dist/esm/icons/chart-column.mjs [app-client] (ecmascript) <export default as BarChart3>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$lucide$2d$react$40$1$2e$17$2e$0_react$40$19$2e$2$2e$4$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$trash$2d$2$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Trash2$3e$__ = __turbopack_context__.i("[project]/node_modules/.pnpm/lucide-react@1.17.0_react@19.2.4/node_modules/lucide-react/dist/esm/icons/trash-2.mjs [app-client] (ecmascript) <export default as Trash2>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$lucide$2d$react$40$1$2e$17$2e$0_react$40$19$2e$2$2e$4$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$zap$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Zap$3e$__ = __turbopack_context__.i("[project]/node_modules/.pnpm/lucide-react@1.17.0_react@19.2.4/node_modules/lucide-react/dist/esm/icons/zap.mjs [app-client] (ecmascript) <export default as Zap>");
@@ -30,59 +28,178 @@ var _s = __turbopack_context__.k.signature();
 ;
 ;
 ;
-;
-;
-const transport = new __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$ai$40$7$2e$0$2e$157_zod$40$3$2e$25$2e$76$2f$node_modules$2f$ai$2f$dist$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$locals$3e$__["DefaultChatTransport"]({
-    api: '/api/chat'
-});
+const STORAGE_KEY = 'token-lab-session-v1';
+function isRecord(value) {
+    return typeof value === 'object' && value !== null && !Array.isArray(value);
+}
+function isChatMessage(value) {
+    return isRecord(value) && typeof value.id === 'string' && (value.role === 'user' || value.role === 'assistant') && typeof value.content === 'string';
+}
+function isTurnStats(value) {
+    return isRecord(value) && typeof value.id === 'string' && typeof value.model === 'string' && [
+        'promptTokens',
+        'completionTokens',
+        'totalTokens',
+        'responseTimeMs',
+        'tokensPerSecond'
+    ].every((key)=>typeof value[key] === 'number' && Number.isFinite(value[key]) && value[key] >= 0) && (value.timeToFirstTokenMs === undefined || typeof value.timeToFirstTokenMs === 'number');
+}
+function isStoredSession(value) {
+    return isRecord(value) && Array.isArray(value.messages) && value.messages.every(isChatMessage) && Array.isArray(value.turns) && value.turns.every(isTurnStats);
+}
+function getApiError(payload) {
+    return isRecord(payload) && typeof payload.error === 'string' ? payload.error : 'No se pudo obtener una respuesta válida del servidor.';
+}
 function ChatApp() {
     _s();
     const [model, setModel] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(__TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$chat$2d$types$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DEFAULT_MODEL"]);
+    const [messages, setMessages] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])([]);
     const [turns, setTurns] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])([]);
     const [statsOpen, setStatsOpen] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false);
-    const { messages, sendMessage, setMessages, status, stop, error, clearError } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f40$ai$2d$sdk$2b$react$40$4$2e$0$2e$161_react$40$19$2e$2$2e$4_zod$40$3$2e$25$2e$76$2f$node_modules$2f40$ai$2d$sdk$2f$react$2f$dist$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useChat"])({
-        transport,
-        onFinish: {
-            "ChatApp.useChat": ({ message })=>{
-                const meta = message.metadata;
-                if (meta?.totalTokens === undefined) return;
-                setTurns({
-                    "ChatApp.useChat": (previous)=>[
-                            ...previous,
-                            {
-                                id: message.id,
-                                model: meta.model ?? model,
-                                promptTokens: meta.promptTokens ?? 0,
-                                completionTokens: meta.completionTokens ?? 0,
-                                totalTokens: meta.totalTokens ?? 0,
-                                responseTimeMs: meta.responseTimeMs ?? 0,
-                                timeToFirstTokenMs: meta.timeToFirstTokenMs,
-                                tokensPerSecond: meta.tokensPerSecond ?? 0
-                            }
-                        ]
-                }["ChatApp.useChat"]);
+    const [isBusy, setIsBusy] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false);
+    const [error, setError] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(null);
+    const [isRestored, setIsRestored] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false);
+    const requestId = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRef"])(0);
+    const abortController = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRef"])(null);
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useEffect"])({
+        "ChatApp.useEffect": ()=>{
+            try {
+                const stored = localStorage.getItem(STORAGE_KEY);
+                if (stored) {
+                    const parsed = JSON.parse(stored);
+                    if (isStoredSession(parsed)) {
+                        setMessages(parsed.messages);
+                        setTurns(parsed.turns);
+                    } else {
+                        localStorage.removeItem(STORAGE_KEY);
+                    }
+                }
+            } catch  {
+                localStorage.removeItem(STORAGE_KEY);
+            } finally{
+                setIsRestored(true);
             }
-        }["ChatApp.useChat"]
-    });
-    const isBusy = status === 'submitted' || status === 'streaming';
+        }
+    }["ChatApp.useEffect"], []);
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useEffect"])({
+        "ChatApp.useEffect": ()=>{
+            if (!isRestored) return;
+            try {
+                localStorage.setItem(STORAGE_KEY, JSON.stringify({
+                    messages,
+                    turns
+                }));
+            } catch  {
+                setError('No se pudo guardar la conversación en este navegador.');
+            }
+        }
+    }["ChatApp.useEffect"], [
+        isRestored,
+        messages,
+        turns
+    ]);
     const lastMessage = messages.at(-1);
-    const lastHasText = lastMessage?.role === 'assistant' && lastMessage.parts.some((part)=>part.type === 'text' && part.text.length > 0);
-    const isWaiting = isBusy && !lastHasText;
+    const isWaiting = isBusy && lastMessage?.role === 'user';
     const sessionTotal = turns.reduce((sum, turn)=>sum + turn.totalTokens, 0);
-    function handleSend(text) {
-        clearError();
-        sendMessage({
-            text
-        }, {
-            body: {
-                model
+    async function handleSend(text) {
+        const content = text.trim();
+        if (!content || isBusy || !isRestored) return;
+        setError(null);
+        const userMessage = {
+            id: crypto.randomUUID(),
+            role: 'user',
+            content
+        };
+        const conversation = [
+            ...messages,
+            userMessage
+        ];
+        setMessages(conversation);
+        setIsBusy(true);
+        const currentRequest = ++requestId.current;
+        const controller = new AbortController();
+        abortController.current = controller;
+        const startedAt = Date.now();
+        try {
+            const response = await fetch('/api/chat', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    model,
+                    messages: conversation.map(({ role, content: messageContent })=>({
+                            role,
+                            content: messageContent
+                        }))
+                }),
+                signal: controller.signal
+            });
+            let payload;
+            try {
+                payload = await response.json();
+            } catch  {
+                throw new Error('El servidor devolvió una respuesta que no se pudo interpretar.');
             }
-        });
+            if (!response.ok) throw new Error(getApiError(payload));
+            if (!isRecord(payload) || typeof payload.message !== 'string' || !isRecord(payload.metadata)) {
+                throw new Error('El servidor devolvió una respuesta con formato inválido.');
+            }
+            if (currentRequest !== requestId.current) return;
+            const metadata = payload.metadata;
+            const assistantMessage = {
+                id: crypto.randomUUID(),
+                role: 'assistant',
+                content: payload.message,
+                metadata: {
+                    model: typeof metadata.model === 'string' ? metadata.model : model,
+                    createdAt: typeof metadata.createdAt === 'number' ? metadata.createdAt : Date.now(),
+                    promptTokens: typeof metadata.promptTokens === 'number' ? metadata.promptTokens : 0,
+                    completionTokens: typeof metadata.completionTokens === 'number' ? metadata.completionTokens : 0,
+                    totalTokens: typeof metadata.totalTokens === 'number' ? metadata.totalTokens : 0,
+                    responseTimeMs: typeof metadata.responseTimeMs === 'number' ? metadata.responseTimeMs : Date.now() - startedAt,
+                    tokensPerSecond: typeof metadata.tokensPerSecond === 'number' ? metadata.tokensPerSecond : 0
+                }
+            };
+            setMessages((previous)=>[
+                    ...previous,
+                    assistantMessage
+                ]);
+            setTurns((previous)=>[
+                    ...previous,
+                    {
+                        id: assistantMessage.id,
+                        model: assistantMessage.metadata?.model ?? model,
+                        promptTokens: assistantMessage.metadata?.promptTokens ?? 0,
+                        completionTokens: assistantMessage.metadata?.completionTokens ?? 0,
+                        totalTokens: assistantMessage.metadata?.totalTokens ?? 0,
+                        responseTimeMs: assistantMessage.metadata?.responseTimeMs ?? 0,
+                        tokensPerSecond: assistantMessage.metadata?.tokensPerSecond ?? 0
+                    }
+                ]);
+        } catch (requestError) {
+            if (currentRequest !== requestId.current) return;
+            if (requestError instanceof Error && requestError.name === 'AbortError') return;
+            setError(requestError instanceof Error ? requestError.message : 'Ocurrió un error inesperado.');
+        } finally{
+            if (currentRequest === requestId.current) {
+                setIsBusy(false);
+                abortController.current = null;
+            }
+        }
     }
     function handleClear() {
-        stop();
-        clearError();
+        requestId.current += 1;
+        abortController.current?.abort();
+        abortController.current = null;
+        setIsBusy(false);
+        setError(null);
         setMessages([]);
+        setTurns([]);
+        localStorage.removeItem(STORAGE_KEY);
+    }
+    function handleResetStats() {
+        setTurns([]);
     }
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         className: "flex h-dvh overflow-hidden bg-background",
@@ -103,12 +220,12 @@ function ChatApp() {
                                             "aria-hidden": "true"
                                         }, void 0, false, {
                                             fileName: "[project]/components/chat/chat-app.tsx",
-                                            lineNumber: 67,
+                                            lineNumber: 209,
                                             columnNumber: 15
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/components/chat/chat-app.tsx",
-                                        lineNumber: 66,
+                                        lineNumber: 208,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -118,7 +235,7 @@ function ChatApp() {
                                                 children: "Token Lab"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/chat/chat-app.tsx",
-                                                lineNumber: 70,
+                                                lineNumber: 212,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -126,19 +243,19 @@ function ChatApp() {
                                                 children: "Chat con métricas de consumo"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/chat/chat-app.tsx",
-                                                lineNumber: 71,
+                                                lineNumber: 213,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/components/chat/chat-app.tsx",
-                                        lineNumber: 69,
+                                        lineNumber: 211,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/chat/chat-app.tsx",
-                                lineNumber: 65,
+                                lineNumber: 207,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -150,7 +267,7 @@ function ChatApp() {
                                         children: "Modelo"
                                     }, void 0, false, {
                                         fileName: "[project]/components/chat/chat-app.tsx",
-                                        lineNumber: 76,
+                                        lineNumber: 218,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("select", {
@@ -164,23 +281,23 @@ function ChatApp() {
                                                 children: option.label
                                             }, option.id, false, {
                                                 fileName: "[project]/components/chat/chat-app.tsx",
-                                                lineNumber: 87,
-                                                columnNumber: 17
+                                                lineNumber: 226,
+                                                columnNumber: 39
                                             }, this))
                                     }, void 0, false, {
                                         fileName: "[project]/components/chat/chat-app.tsx",
-                                        lineNumber: 79,
+                                        lineNumber: 219,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Button"], {
                                         variant: "outline",
                                         size: "sm",
                                         onClick: handleClear,
-                                        disabled: messages.length === 0,
+                                        disabled: messages.length === 0 && turns.length === 0 && !isBusy,
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$lucide$2d$react$40$1$2e$17$2e$0_react$40$19$2e$2$2e$4$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$trash$2d$2$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Trash2$3e$__["Trash2"], {}, void 0, false, {
                                                 fileName: "[project]/components/chat/chat-app.tsx",
-                                                lineNumber: 98,
+                                                lineNumber: 229,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -188,7 +305,7 @@ function ChatApp() {
                                                 children: "Borrar conversación"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/chat/chat-app.tsx",
-                                                lineNumber: 99,
+                                                lineNumber: 230,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -196,13 +313,13 @@ function ChatApp() {
                                                 children: "Borrar conversación"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/chat/chat-app.tsx",
-                                                lineNumber: 100,
+                                                lineNumber: 231,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/components/chat/chat-app.tsx",
-                                        lineNumber: 92,
+                                        lineNumber: 228,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Button"], {
@@ -215,7 +332,7 @@ function ChatApp() {
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$lucide$2d$react$40$1$2e$17$2e$0_react$40$19$2e$2$2e$4$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$chart$2d$column$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__BarChart3$3e$__["BarChart3"], {}, void 0, false, {
                                                 fileName: "[project]/components/chat/chat-app.tsx",
-                                                lineNumber: 110,
+                                                lineNumber: 241,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -223,7 +340,7 @@ function ChatApp() {
                                                 children: (0, __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$format$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["formatInt"])(sessionTotal)
                                             }, void 0, false, {
                                                 fileName: "[project]/components/chat/chat-app.tsx",
-                                                lineNumber: 111,
+                                                lineNumber: 242,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -231,25 +348,25 @@ function ChatApp() {
                                                 children: "tokens. Ver estadísticas"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/chat/chat-app.tsx",
-                                                lineNumber: 112,
+                                                lineNumber: 243,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/components/chat/chat-app.tsx",
-                                        lineNumber: 102,
+                                        lineNumber: 233,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/chat/chat-app.tsx",
-                                lineNumber: 75,
+                                lineNumber: 217,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/chat/chat-app.tsx",
-                        lineNumber: 64,
+                        lineNumber: 206,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("main", {
@@ -260,12 +377,12 @@ function ChatApp() {
                             onPickSuggestion: handleSend
                         }, void 0, false, {
                             fileName: "[project]/components/chat/chat-app.tsx",
-                            lineNumber: 118,
+                            lineNumber: 249,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/components/chat/chat-app.tsx",
-                        lineNumber: 117,
+                        lineNumber: 248,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -274,34 +391,31 @@ function ChatApp() {
                             error && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 role: "alert",
                                 className: "mb-2 rounded-lg border border-destructive/40 bg-destructive/10 px-3 py-2 text-sm text-destructive",
-                                children: [
-                                    "Error al contactar con el modelo: ",
-                                    error.message
-                                ]
-                            }, void 0, true, {
+                                children: error
+                            }, void 0, false, {
                                 fileName: "[project]/components/chat/chat-app.tsx",
-                                lineNumber: 127,
+                                lineNumber: 254,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$chat$2f$chat$2d$input$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["ChatInput"], {
-                                isBusy: isBusy,
+                                isBusy: isBusy || !isRestored,
                                 onSend: handleSend,
-                                onStop: stop
+                                onStop: ()=>abortController.current?.abort()
                             }, void 0, false, {
                                 fileName: "[project]/components/chat/chat-app.tsx",
-                                lineNumber: 134,
+                                lineNumber: 258,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/chat/chat-app.tsx",
-                        lineNumber: 125,
+                        lineNumber: 252,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/chat/chat-app.tsx",
-                lineNumber: 63,
+                lineNumber: 205,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("aside", {
@@ -311,15 +425,15 @@ function ChatApp() {
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$chat$2f$stats$2d$sidebar$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["StatsSidebar"], {
                     turns: turns,
                     currentModel: model,
-                    onReset: ()=>setTurns([])
+                    onReset: handleResetStats
                 }, void 0, false, {
                     fileName: "[project]/components/chat/chat-app.tsx",
-                    lineNumber: 143,
+                    lineNumber: 267,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/components/chat/chat-app.tsx",
-                lineNumber: 138,
+                lineNumber: 262,
                 columnNumber: 7
             }, this),
             statsOpen && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -335,7 +449,7 @@ function ChatApp() {
                         "aria-label": "Cerrar estadísticas"
                     }, void 0, false, {
                         fileName: "[project]/components/chat/chat-app.tsx",
-                        lineNumber: 148,
+                        lineNumber: 272,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -343,36 +457,32 @@ function ChatApp() {
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$chat$2f$stats$2d$sidebar$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["StatsSidebar"], {
                             turns: turns,
                             currentModel: model,
-                            onReset: ()=>setTurns([]),
+                            onReset: handleResetStats,
                             onClose: ()=>setStatsOpen(false)
                         }, void 0, false, {
                             fileName: "[project]/components/chat/chat-app.tsx",
-                            lineNumber: 155,
+                            lineNumber: 274,
                             columnNumber: 13
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/components/chat/chat-app.tsx",
-                        lineNumber: 154,
+                        lineNumber: 273,
                         columnNumber: 11
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/chat/chat-app.tsx",
-                lineNumber: 147,
+                lineNumber: 271,
                 columnNumber: 9
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/components/chat/chat-app.tsx",
-        lineNumber: 62,
+        lineNumber: 204,
         columnNumber: 5
     }, this);
 }
-_s(ChatApp, "/hvfNjI9Sdjdk0AsNYWVyZk7Fv4=", false, function() {
-    return [
-        __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f40$ai$2d$sdk$2b$react$40$4$2e$0$2e$161_react$40$19$2e$2$2e$4_zod$40$3$2e$25$2e$76$2f$node_modules$2f40$ai$2d$sdk$2f$react$2f$dist$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useChat"]
-    ];
-});
+_s(ChatApp, "g/zGt3SEuH/TJeE6tboZZ+CQo6M=");
 _c = ChatApp;
 var _c;
 __turbopack_context__.k.register(_c, "ChatApp");
@@ -521,9 +631,10 @@ function MessageList({ messages, isWaiting, onPickSuggestion }) {
     const endRef = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRef"])(null);
     (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useEffect"])({
         "MessageList.useEffect": ()=>{
-            endRef.current?.scrollIntoView({
-                behavior: 'smooth',
-                block: 'end'
+            const messageContainer = endRef.current?.closest('main');
+            messageContainer?.scrollTo({
+                top: messageContainer.scrollHeight,
+                behavior: 'smooth'
             });
         }
     }["MessageList.useEffect"], [
@@ -541,12 +652,12 @@ function MessageList({ messages, isWaiting, onPickSuggestion }) {
                         "aria-hidden": "true"
                     }, void 0, false, {
                         fileName: "[project]/components/chat/message-list.tsx",
-                        lineNumber: 32,
+                        lineNumber: 33,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/components/chat/message-list.tsx",
-                    lineNumber: 31,
+                    lineNumber: 32,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -557,7 +668,7 @@ function MessageList({ messages, isWaiting, onPickSuggestion }) {
                             children: "Empieza una conversación"
                         }, void 0, false, {
                             fileName: "[project]/components/chat/message-list.tsx",
-                            lineNumber: 35,
+                            lineNumber: 36,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -565,13 +676,13 @@ function MessageList({ messages, isWaiting, onPickSuggestion }) {
                             children: "Cada respuesta registra los tokens de prompt y de completado, el tiempo de respuesta y la velocidad de generación en el panel de estadísticas."
                         }, void 0, false, {
                             fileName: "[project]/components/chat/message-list.tsx",
-                            lineNumber: 36,
+                            lineNumber: 37,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/chat/message-list.tsx",
-                    lineNumber: 34,
+                    lineNumber: 35,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -584,23 +695,23 @@ function MessageList({ messages, isWaiting, onPickSuggestion }) {
                                 children: suggestion
                             }, void 0, false, {
                                 fileName: "[project]/components/chat/message-list.tsx",
-                                lineNumber: 44,
+                                lineNumber: 45,
                                 columnNumber: 15
                             }, this)
                         }, suggestion, false, {
                             fileName: "[project]/components/chat/message-list.tsx",
-                            lineNumber: 43,
+                            lineNumber: 44,
                             columnNumber: 13
                         }, this))
                 }, void 0, false, {
                     fileName: "[project]/components/chat/message-list.tsx",
-                    lineNumber: 41,
+                    lineNumber: 42,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/components/chat/message-list.tsx",
-            lineNumber: 30,
+            lineNumber: 31,
             columnNumber: 7
         }, this);
     }
@@ -612,7 +723,7 @@ function MessageList({ messages, isWaiting, onPickSuggestion }) {
                     message: message
                 }, message.id, false, {
                     fileName: "[project]/components/chat/message-list.tsx",
-                    lineNumber: 61,
+                    lineNumber: 62,
                     columnNumber: 9
                 }, this)),
             isWaiting && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -622,7 +733,7 @@ function MessageList({ messages, isWaiting, onPickSuggestion }) {
                         role: "assistant"
                     }, void 0, false, {
                         fileName: "[project]/components/chat/message-list.tsx",
-                        lineNumber: 65,
+                        lineNumber: 66,
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -633,7 +744,7 @@ function MessageList({ messages, isWaiting, onPickSuggestion }) {
                                 children: "La IA está pensando"
                             }, void 0, false, {
                                 fileName: "[project]/components/chat/message-list.tsx",
-                                lineNumber: 67,
+                                lineNumber: 68,
                                 columnNumber: 13
                             }, this),
                             [
@@ -648,33 +759,34 @@ function MessageList({ messages, isWaiting, onPickSuggestion }) {
                                     "aria-hidden": "true"
                                 }, delay, false, {
                                     fileName: "[project]/components/chat/message-list.tsx",
-                                    lineNumber: 69,
+                                    lineNumber: 70,
                                     columnNumber: 15
                                 }, this))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/chat/message-list.tsx",
-                        lineNumber: 66,
+                        lineNumber: 67,
                         columnNumber: 11
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/chat/message-list.tsx",
-                lineNumber: 64,
+                lineNumber: 65,
                 columnNumber: 9
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                 ref: endRef,
+                className: "h-0",
                 "aria-hidden": "true"
             }, void 0, false, {
                 fileName: "[project]/components/chat/message-list.tsx",
-                lineNumber: 79,
+                lineNumber: 80,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/components/chat/message-list.tsx",
-        lineNumber: 59,
+        lineNumber: 60,
         columnNumber: 5
     }, this);
 }
@@ -682,7 +794,7 @@ _s(MessageList, "wkzjRsewh8pSmp35FLqjNBWGCLs=");
 _c = MessageList;
 function MessageItem({ message }) {
     const isUser = message.role === 'user';
-    const text = message.parts.filter((part)=>part.type === 'text').map((part)=>part.text).join('');
+    const text = message.content;
     const meta = message.metadata;
     if (!isUser && text.length === 0) return null;
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -692,7 +804,7 @@ function MessageItem({ message }) {
                 role: isUser ? 'user' : 'assistant'
             }, void 0, false, {
                 fileName: "[project]/components/chat/message-list.tsx",
-                lineNumber: 96,
+                lineNumber: 94,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -703,7 +815,7 @@ function MessageItem({ message }) {
                         children: isUser ? 'Tú' : 'Asistente'
                     }, void 0, false, {
                         fileName: "[project]/components/chat/message-list.tsx",
-                        lineNumber: 98,
+                        lineNumber: 96,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -711,7 +823,7 @@ function MessageItem({ message }) {
                         children: text
                     }, void 0, false, {
                         fileName: "[project]/components/chat/message-list.tsx",
-                        lineNumber: 99,
+                        lineNumber: 97,
                         columnNumber: 9
                     }, this),
                     !isUser && meta?.totalTokens !== undefined && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("dl", {
@@ -722,7 +834,7 @@ function MessageItem({ message }) {
                                 value: (0, __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$format$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["modelLabel"])(meta.model ?? '')
                             }, void 0, false, {
                                 fileName: "[project]/components/chat/message-list.tsx",
-                                lineNumber: 111,
+                                lineNumber: 109,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(MetaItem, {
@@ -730,7 +842,7 @@ function MessageItem({ message }) {
                                 value: `${(0, __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$format$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["formatInt"])(meta.promptTokens ?? 0)} tok`
                             }, void 0, false, {
                                 fileName: "[project]/components/chat/message-list.tsx",
-                                lineNumber: 112,
+                                lineNumber: 110,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(MetaItem, {
@@ -738,7 +850,7 @@ function MessageItem({ message }) {
                                 value: `${(0, __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$format$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["formatInt"])(meta.completionTokens ?? 0)} tok`
                             }, void 0, false, {
                                 fileName: "[project]/components/chat/message-list.tsx",
-                                lineNumber: 113,
+                                lineNumber: 111,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(MetaItem, {
@@ -746,7 +858,7 @@ function MessageItem({ message }) {
                                 value: (0, __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$format$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["formatMs"])(meta.responseTimeMs)
                             }, void 0, false, {
                                 fileName: "[project]/components/chat/message-list.tsx",
-                                lineNumber: 114,
+                                lineNumber: 112,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(MetaItem, {
@@ -754,25 +866,25 @@ function MessageItem({ message }) {
                                 value: `${(0, __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$format$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["formatDecimal"])(meta.tokensPerSecond ?? 0)} tok/s`
                             }, void 0, false, {
                                 fileName: "[project]/components/chat/message-list.tsx",
-                                lineNumber: 115,
+                                lineNumber: 113,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/chat/message-list.tsx",
-                        lineNumber: 110,
+                        lineNumber: 108,
                         columnNumber: 11
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/chat/message-list.tsx",
-                lineNumber: 97,
+                lineNumber: 95,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/components/chat/message-list.tsx",
-        lineNumber: 95,
+        lineNumber: 93,
         columnNumber: 5
     }, this);
 }
@@ -786,20 +898,20 @@ function MetaItem({ label, value }) {
                 children: label
             }, void 0, false, {
                 fileName: "[project]/components/chat/message-list.tsx",
-                lineNumber: 126,
+                lineNumber: 124,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("dd", {
                 children: value
             }, void 0, false, {
                 fileName: "[project]/components/chat/message-list.tsx",
-                lineNumber: 127,
+                lineNumber: 125,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/components/chat/message-list.tsx",
-        lineNumber: 125,
+        lineNumber: 123,
         columnNumber: 5
     }, this);
 }
@@ -812,18 +924,18 @@ function Avatar({ role }) {
             className: "size-4"
         }, void 0, false, {
             fileName: "[project]/components/chat/message-list.tsx",
-            lineNumber: 141,
+            lineNumber: 139,
             columnNumber: 26
         }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$4$2e$3_$40$babel$2b$core$40$7$2e$29$2e$7_$40$types$2b$node$40$24$2e$10$2e$4_react$2d$dom$40$19$2e$2$2e$4_react$40$19$2e$2$2e$4_$5f$react$40$19$2e$2$2e$4$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$lucide$2d$react$40$1$2e$17$2e$0_react$40$19$2e$2$2e$4$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$bot$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Bot$3e$__["Bot"], {
             className: "size-4"
         }, void 0, false, {
             fileName: "[project]/components/chat/message-list.tsx",
-            lineNumber: 141,
+            lineNumber: 139,
             columnNumber: 56
         }, this)
     }, void 0, false, {
         fileName: "[project]/components/chat/message-list.tsx",
-        lineNumber: 134,
+        lineNumber: 132,
         columnNumber: 5
     }, this);
 }
@@ -1617,20 +1729,8 @@ __turbopack_context__.s([
 ]);
 const MODELS = [
     {
-        id: 'openai/gpt-5.4-mini',
-        label: 'GPT-5.4 mini'
-    },
-    {
-        id: 'anthropic/claude-haiku-4.5',
-        label: 'Claude Haiku 4.5'
-    },
-    {
-        id: 'google/gemini-3-flash',
-        label: 'Gemini 3 Flash'
-    },
-    {
-        id: 'openai/gpt-5.5',
-        label: 'GPT-5.5'
+        id: 'qwen/qwen3.8-27b',
+        label: 'Qwen 3.8 27B (Groq)'
     }
 ];
 const DEFAULT_MODEL = MODELS[0].id;

@@ -22,7 +22,8 @@ export function MessageList({ messages, isWaiting, onPickSuggestion }: MessageLi
   const endRef = useRef<HTMLLIElement>(null)
 
   useEffect(() => {
-    endRef.current?.scrollIntoView({ behavior: 'smooth', block: 'end' })
+    const messageContainer = endRef.current?.closest('main')
+    messageContainer?.scrollTo({ top: messageContainer.scrollHeight, behavior: 'smooth' })
   }, [messages, isWaiting])
 
   if (messages.length === 0) {
@@ -76,17 +77,14 @@ export function MessageList({ messages, isWaiting, onPickSuggestion }: MessageLi
           </div>
         </li>
       )}
-      <li ref={endRef} aria-hidden="true" />
+      <li ref={endRef} className="h-0" aria-hidden="true" />
     </ol>
   )
 }
 
 function MessageItem({ message }: { message: ChatMessage }) {
   const isUser = message.role === 'user'
-  const text = message.parts
-    .filter((part) => part.type === 'text')
-    .map((part) => part.text)
-    .join('')
+  const text = message.content
   const meta = message.metadata
 
   if (!isUser && text.length === 0) return null
